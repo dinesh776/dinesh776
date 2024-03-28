@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Dinesh Gvns and I'm a Student, from Raghu Engineering College</h2>
+<h2 align="left">Hi 👋! My name is Dinesh and I'm a Student, from Raghu Engineering College</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDN4dzhsaGJzM3F0a25qb3k2ejRkaG95M2h6YmNyMDR2azJnOGZhOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/p2GaqIvO2CghxLofci/giphy.gif"  />
+<img align="right" height="200"  src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50e9dd4cd.gif"  />
 
 ###
 

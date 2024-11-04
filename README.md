@@ -1,5 +1,19 @@
-# 💫 About Me:
-🌱 I’m currently learning DSA in Java, Java Full Stack
+# Hi there, I'm Dinesh! 👋
+
+Welcome to my GitHub profile! I'm a passionate **Software Developer** focused on mastering **Data Structures and Algorithms (DSA)**, building real-world applications with **Java Full Stack Development**.
+
+I'm on a journey to sharpen my coding skills through consistent problem-solving on **LeetCode** and hands-on project development. I'm actively seeking opportunities to apply my knowledge in practical settings, whether through **internships, part-time roles, or collaborative projects**.
+
+---
+
+### 🚀 About Me
+
+- **💻 Core Skills:** Java, DSA, HTML, CSS, JavaScript, BootStrap
+- **🔎 Currently Learning:** Java Full Stack Development, System Design, DSA from scratch
+- **🎯 Goals:** Secure a high-paying role in tech as a fresher, build impactful projects, and continually improve my coding efficiency
+- **🌱 Passionate About:** Developing solutions that blend **efficiency** and **scalability**, learning new technologies, and taking on challenges
+
+---
 
 
 ## 🌐 Socials:
